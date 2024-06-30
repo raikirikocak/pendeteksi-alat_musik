@@ -1,5 +1,5 @@
 numpy
 pandas
-librosa-python-headless
+librosa
 streamlit
 scikit-learn
