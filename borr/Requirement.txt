@@ -1,7 +1,0 @@
-numpy
-pandas
-librosa-python-headless
-streamlit
-scikit-learn
-joblib
-io
